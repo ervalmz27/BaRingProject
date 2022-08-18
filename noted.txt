@@ -1,0 +1,19 @@
+
+#imam rev
+✅icon home di ganti search //done
+- ✅search di tarok di menu home d atas aktegori //done
+- ✅profile ganti nama ke value / nama asli //done 
+- ✅img tdak muncul //done
+- ✅nama home d ganti explorer //done
+- ✅home kalau pencarian ganti smua isinya dan ketika kosong kembali lagi ke home sebelumnya //done
+- ✅ecomers dan online course ganti jadi produk //done
+- ✅online course paling atas dan ecomers d bawahnya //done
+- ✅d home  product online course view all //done
+- ✅membership looping
+- ✅ nama menu product di ganti books
+- ✅keyboard tidak bisa ngetik
+- ❌ daftar user baru error 400 (backend)
+- ❌install sublime text, nodejs versi 14/16, java 11.0.14, android studio, emulator, setting path 
+
+#naufal
+- ✅ daftar user baru error //done

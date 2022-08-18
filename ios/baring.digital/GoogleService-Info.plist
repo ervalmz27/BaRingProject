@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>600511812811-r74o1njtguvh0i684909ov5s55im5ao5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.600511812811-r74o1njtguvh0i684909ov5s55im5ao5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>600511812811-vj1b0fn3dahi1k8ohgbc4at22nk0amij.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDV1IwbJuqv02dQpQEzLC6Bhspf8SQfaU0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>600511812811</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baring.digital</string>
+	<key>PROJECT_ID</key>
+	<string>baring-d3343</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baring-d3343.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:600511812811:ios:d6df2cd2a6b4f07b12f74e</string>
+</dict>
+</plist>
